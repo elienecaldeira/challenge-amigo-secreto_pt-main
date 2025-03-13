@@ -20,6 +20,7 @@
 - [Ferramentas utilizadas](#ferramentas-utilizadas)
 
 - [Desenvolvedores](#desenvolvedores)
+- [Desafios](#desafios)
 
 ## Descrição do projeto 
 
@@ -31,7 +32,7 @@ Objetivo do desafio "Amigo Secreto! é  colocar em prática os conceitos fundame
 independentemente de sua complexidade.
 
 
-O sistema permitirár informar vários nomes de amigo e sortear o amigo secreto.
+O sistema permitirár adicionar vários nomes na lista de amigos e sortear aleatoriamente o amigo secreto.
 
 ![telaprincipal_amigo](https://github.com/user-attachments/assets/88a1e432-15f6-435a-95f8-e0c5cc2d98d9)
 
@@ -39,11 +40,11 @@ O sistema permitirár informar vários nomes de amigo e sortear o amigo secreto.
 
 ## Funcionalidades
 
-:heavy_check_mark: `Funcionalidade 1:` Adiciona cadastro dos amigos que irão fazer parte do sorteio do amigo secreto.
+:heavy_check_mark: `Funcionalidade 1:O botão Adicionar Amigos, permite ao usuário inserir um nome no campo de texto e adicioná-lo ao  array de amigos.
 
-:heavy_check_mark: `Funcionalidade 2:` Atualiza a lista de amigos, Crie uma função que percorra o array amigos e adicione cada nome como um elemento <li> dentro de uma lista HTML. Use innerHTML para limpar a lista antes de adicionar novos elementos. .
+:heavy_check_mark: `Funcionalidade 2:` Atualiza a lista de amigos, percorre o array amigos e adiciona cada nome como um elemento <li> dentro de uma lista HTML. A lista é limpa  antes de adicionar novos elementos. .
 
-:heavy_check_mark: `Funcionalidade 3:` Sorte o Amigo Secreto
+:heavy_check_mark: `Funcionalidade 3:Sorteia aleatoriamente um dos nomes armazenados no array amigos.
 
 ## Aplicação
 
@@ -64,6 +65,5 @@ O sistema permitirár informar vários nomes de amigo e sortear o amigo secreto.
 
 ###
 ## Desenvolvedores
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Guilherme Lima</sub>](https://github.com/guilhermeonrails) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |
-| :---: | :---: | :---: |
+- [Eliene Caldeira da Rocha](https://github.com/elienecaldeira)
 
