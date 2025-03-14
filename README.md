@@ -66,11 +66,11 @@ https://elienecaldeira.github.io/challenge-amigo-secreto_pt-main/
 - ``CSS``
 - ``Java Script``
 
-## 🚀 Desafio Enfrentado 
+## Desafio Enfrentado 
 
 Durante o desenvolvimento deste projeto, o maior desafio foi **a gestão de tempo**. Com prazos de entrega chegando ao fim e fazendo outros tarefas, casa família e trabalho, precisei encontrar maneiras eficazes de organizar meu fluxo de trabalho.  
 
-### 🏆 Como superei esse desafio 
+## Como superei esse desafio 
 
 - Priorizei as tarefas mais importantes  
 - Utilizei ferramentas**Trello ** para acompanhar o progresso do projeto.  
