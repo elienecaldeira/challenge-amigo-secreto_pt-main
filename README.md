@@ -14,12 +14,11 @@
 - [Descrição do projeto](#descrição-do-projeto)
 
 - [Funcionalidades](#funcionalidades)
-
 - [Aplicação](#aplicação)
 - [Acesso ao Projeto](#acesso-ao-projeto)
 - [Ferramentas utilizadas](#ferramentas-utilizadas)
 - [Desafio Enfrentado](#DesafioEnfrentado)
-- [Como superei esse desafio?](#Como-superei-esse-desafio)
+- [Como superei esse desafio](#Como-superei-esse-desafio)
 - [Desenvolvedores](#desenvolvedores)
   
 
@@ -42,11 +41,11 @@ O sistema permitirár adicionar vários nomes na lista de amigos e sortear aleat
 
 ## Funcionalidades
 
-:heavy_check_mark: `Funcionalidade 1:O botão Adicionar Amigos, permite ao usuário inserir um nome no campo de texto e adicioná-lo ao  array de amigos.
+:heavy_check_mark: `Adicionar os Amigos na Lista`:O botão Adicionar Amigos, permite ao usuário inserir um nome no campo de texto e adicioná-lo ao  array de amigos.
 
-:heavy_check_mark: `Funcionalidade 2:` Atualiza a lista de amigos, percorre o array amigos e adiciona cada nome como um elemento <li> dentro de uma lista HTML. A lista é limpa  antes de adicionar novos elementos. .
+:heavy_check_mark: `Atualizar a lista de Amigos:` Atualiza a lista de amigos, percorre o array amigos e adiciona cada nome como um elemento li dentro de uma lista HTML. A lista é limpa  antes de adicionar novos elementos. .
 
-:heavy_check_mark: `Funcionalidade 3:Sorteia aleatoriamente um dos nomes armazenados no array amigos.
+:heavy_check_mark: `Sortear o Amigo Secreto:Sorteia aleatoriamente um dos nomes armazenados no array amigos.
 
 ## Aplicação
 
@@ -67,11 +66,11 @@ https://elienecaldeira.github.io/challenge-amigo-secreto_pt-main/
 - ``CSS``
 - ``Java Script``
 
-## 🚀 Desafio Enfrentado  
+## 🚀 Desafio Enfrentado 
 
 Durante o desenvolvimento deste projeto, o maior desafio foi **a gestão de tempo**. Com prazos de entrega chegando ao fim e fazendo outros tarefas, casa família e trabalho, precisei encontrar maneiras eficazes de organizar meu fluxo de trabalho.  
 
-### 🏆 Como superei esse desafio?  
+### 🏆 Como superei esse desafio 
 
 - Priorizei as tarefas mais importantes  
 - Utilizei ferramentas**Trello ** para acompanhar o progresso do projeto.  
