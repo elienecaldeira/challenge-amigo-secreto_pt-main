@@ -65,5 +65,6 @@ O sistema permitirár adicionar vários nomes na lista de amigos e sortear aleat
 
 ###
 ## Desenvolvedores
-- [Eliene Caldeira da Rocha](https://github.com/elienecaldeira)
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/110729886?v=4" width=115><br><sub>Eliene Caldeira da Rocha</sub>](https://github.com/elienecaldeira)
+
 
