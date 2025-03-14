@@ -16,11 +16,13 @@
 - [Funcionalidades](#funcionalidades)
 
 - [Aplicação](#aplicação)
-
+- [Acesso ao Projeto](#acesso-ao-projeto)
 - [Ferramentas utilizadas](#ferramentas-utilizadas)
-
+- [Desafio Enfrentado](#DesafioEnfrentado)
+- [Como superei esse desafio?](#Como-superei-esse-desafio)
 - [Desenvolvedores](#desenvolvedores)
-- [Desafios](#desafios)
+  
+
 
 ## Descrição do projeto 
 
@@ -55,16 +57,31 @@ O sistema permitirár adicionar vários nomes na lista de amigos e sortear aleat
 
   </div>
 
-###
+### Acesso ao Projeto
 
+https://elienecaldeira.github.io/challenge-amigo-secreto_pt-main/
+## 
 ## Ferramentas utilizadas
 
 - ``HTML``
 - ``CSS``
 - ``Java Script``
 
+## 🚀 Desafio Enfrentado  
+
+Durante o desenvolvimento deste projeto, o maior desafio foi **a gestão de tempo**. Com prazos de entrega chegando ao fim e fazendo outros tarefas, casa família e trabalho, precisei encontrar maneiras eficazes de organizar meu fluxo de trabalho.  
+
+### 🏆 Como superei esse desafio?  
+
+- Priorizei as tarefas mais importantes  
+- Utilizei ferramentas**Trello ** para acompanhar o progresso do projeto.  
+
+Essa experiência me ensinou a **planejar melhor o tempo e manter a produtividade**, mesmo sob pressão. 🚀  
+
 ###
 ## Desenvolvedores
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/110729886?v=4" width=115><br><sub>Eliene Caldeira da Rocha</sub>](https://github.com/elienecaldeira)
+
+
 
 
